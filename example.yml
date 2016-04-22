@@ -1,0 +1,9 @@
+command_step_1:
+  command: qcl
+  output: "QCL Quantum Computation Language (64 qubits, seed 1461305830)\n[0/64] 1
+    |0>\nqcl> qcl\n! near \";\"\n! syntax error, unexpected ';'\nqcl> \n"
+
+command_step_2:
+  command: qcl
+  output: "QCL Quantum Computation Language (64 qubits, seed 1461305830)\n[0/64] 1
+    |0>\nqcl> qcl\n! near \";\"\n! syntax error, unexpected ';'\nqcl> \n"
